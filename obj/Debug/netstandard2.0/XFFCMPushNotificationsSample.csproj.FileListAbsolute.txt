@@ -1,0 +1,15 @@
+C:\XFFCMPushNotificationsSample\XFFCMPushNotificationsSample\bin\Debug\netstandard2.0\XFFCMPushNotificationsSample.deps.json
+C:\XFFCMPushNotificationsSample\XFFCMPushNotificationsSample\bin\Debug\netstandard2.0\XFFCMPushNotificationsSample.dll
+C:\XFFCMPushNotificationsSample\XFFCMPushNotificationsSample\bin\Debug\netstandard2.0\XFFCMPushNotificationsSample.pdb
+C:\XFFCMPushNotificationsSample\XFFCMPushNotificationsSample\obj\Debug\netstandard2.0\XFFCMPushNotificationsSample.csproj.AssemblyReference.cache
+C:\XFFCMPushNotificationsSample\XFFCMPushNotificationsSample\obj\Debug\netstandard2.0\XFFCMPushNotificationsSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\XFFCMPushNotificationsSample\XFFCMPushNotificationsSample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\XFFCMPushNotificationsSample\XFFCMPushNotificationsSample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\XFFCMPushNotificationsSample\XFFCMPushNotificationsSample\obj\Debug\netstandard2.0\XFFCMPushNotificationsSample.AssemblyInfoInputs.cache
+C:\XFFCMPushNotificationsSample\XFFCMPushNotificationsSample\obj\Debug\netstandard2.0\XFFCMPushNotificationsSample.AssemblyInfo.cs
+C:\XFFCMPushNotificationsSample\XFFCMPushNotificationsSample\obj\Debug\netstandard2.0\XFFCMPushNotificationsSample.csproj.CoreCompileInputs.cache
+C:\XFFCMPushNotificationsSample\XFFCMPushNotificationsSample\obj\Debug\netstandard2.0\XamlC.stamp
+C:\XFFCMPushNotificationsSample\XFFCMPushNotificationsSample\obj\Debug\netstandard2.0\XFFCMPushNotificationsSample.dll
+C:\XFFCMPushNotificationsSample\XFFCMPushNotificationsSample\obj\Debug\netstandard2.0\refint\XFFCMPushNotificationsSample.dll
+C:\XFFCMPushNotificationsSample\XFFCMPushNotificationsSample\obj\Debug\netstandard2.0\XFFCMPushNotificationsSample.pdb
+C:\XFFCMPushNotificationsSample\XFFCMPushNotificationsSample\obj\Debug\netstandard2.0\ref\XFFCMPushNotificationsSample.dll
